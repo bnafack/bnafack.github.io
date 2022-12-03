@@ -1,1 +1,1 @@
-# bnafack.github.io
+# Master student in Data Science and Scientific Computing
